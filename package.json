@@ -1,0 +1,11 @@
+{
+  "name": "vote_dapp",
+  "version": "1.0.0",
+  "description": "voting application on Ethereum Blockchain",
+  "main": "dapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
