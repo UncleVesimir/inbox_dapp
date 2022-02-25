@@ -1,4 +1,5 @@
-pragma solidity ^0.7;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.12;
 
 contract Inbox {
     string public message;
@@ -10,4 +11,5 @@ contract Inbox {
     function setMessage(string calldata newMessage) public{
         message = newMessage;
     }
-}git c
+}
+
